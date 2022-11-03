@@ -1,0 +1,20 @@
+{
+  "name": "dripicons",
+  "version": "2.0.0",
+  "description": "Dripicons V2 has been created by Amit Jakhu from www.amitjakhu.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjaws/dripicons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC BY 4.0",
+  "bugs": {
+    "url": "https://github.com/pjaws/dripicons/issues"
+  },
+  "homepage": "https://github.com/pjaws/dripicons#readme"
+}
